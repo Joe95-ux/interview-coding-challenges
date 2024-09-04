@@ -23,4 +23,9 @@ function findMissingNumber(nums) {
   // Test case
   console.log(findMissingNumber([3, 0, 1])); // Output: 2
   console.log(findMissingNumber([0, 1])); // Output: 2
-  
+
+//   Explanation:
+
+// Calculate the expected sum for numbers from 0 to n using the 
+// formula for the sum of the first n integers.
+// Subtract the actual sum of the array from the expected sum to find the missing number.
