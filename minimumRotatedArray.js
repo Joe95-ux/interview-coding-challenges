@@ -1,5 +1,6 @@
 // Problem Description:
-// Suppose an array of sorted integers is rotated at some pivot. Find the minimum element in the rotated array.
+// Suppose an array of sorted integers is rotated at some pivot. 
+// Find the minimum element in the rotated array.
 
 
 function findMin(nums) {
